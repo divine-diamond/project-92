@@ -1,0 +1,96 @@
+body
+{
+	background-image: url("https://i.pinimg.com/736x/bc/59/f7/bc59f7bf36013bda17195091e237bae1.jpg");
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		width: 30%;
+		height: 150px;
+		background-color: rgb(15, 53, 84);
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 3px;
+	color: rgb(56, 44, 101);
+	font-weight: bold;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+	background: white;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
+h1{
+	color: rgb(25, 31, 59);
+	font-family: 'Akaya Kanadaka', cursive;
+    background-color: #699cbc;
+    width: 20cm;
+    border-radius: 25px; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+h3{
+	font-family: 'Josefin Sans', sans-serif;
+	color: teal;
+}
+#username{
+	font-family: 'Patrick Hand', cursive;
+    letter-spacing: 0.4mm;
+	color: turquoise;
+}
+button{
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+input:hover{
+	background-color: rgb(155, 180, 209);
+    
+}
+
+.login_div2:hover{
+	border: 5px solid rgb(93, 129, 161);
+	width: 35%;
+}
+.login_div1:hover{
+	border: 5px solid rgb(93, 129, 161);
+	width: 35%;
+}
+#number_1,#number_2
+{
+	color: tomato;
+	font-weight: bold;
+}
+h4{
+	color: bisque;
+	font-family: 'Akaya Kanadaka', cursive;
+	width: 100px;
+}
+h4:hover{
+	text-decoration: underline;
+}
+#player_1_name, #player_2_name{
+	display: inline-block;
+	margin-left: 3px;
+}
+img{
+    background-color: aliceblue;
+    border-radius: 50%;
+}
